@@ -1,4 +1,3 @@
-# 三生宇宙
 ## 语音说明
 ### 默认配置
 通过配置 [.env](./.env) 的 `VITE_ENABLE_SPEECH=true` 可以配置启动语音，默认情况下，语音方案采用 [Web Speech API](https://developer.mozilla.org/zh-CN/docs/Web/API/SpeechRecognition)，
